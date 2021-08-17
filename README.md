@@ -1,6 +1,7 @@
 # yellow_class
 
-A new Flutter project.
+A new Flutter project.A Basic app to add movie List.
+Google Play Store Link would be added Soon.
 
 ## Getting Started
 
