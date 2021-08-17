@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:37856915742:android:3789b9b3480674470e990f",
         "android_client_info": {
-          "package_name": "com.example.yellow_class"
+          "package_name": "com.IMCP.yellow_class"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "37856915742-m19oio79kpk59eioocesnn2am28nekjb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.yellow_class",
+            "package_name": "com.IMCP.yellow_class",
             "certificate_hash": "39aacdce89258e8cc4c861a4916ab38300fa76b7"
           }
         },

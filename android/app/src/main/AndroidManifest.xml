@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.yellow_class">
+    package="com.IMCP.yellow_class">
    <application
         android:label="Movie List YC"
         android:icon="@mipmap/launcher_icon">
