@@ -1,6 +1,6 @@
 # Movie List(My FLutter Project Submission for Yellow Class)
 -
-Play Store Link:   
+Play Store Link: https://play.google.com/store/apps/details?id=com.IMCP.yellow_class   
 -
 Demo Video : https://youtu.be/L2ExIuEomQE  
 -
