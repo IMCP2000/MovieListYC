@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:yellow_class/model/transaction.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-
 import 'package:yellow_class/page/singnin_screen.dart';
 
 Future main() async {

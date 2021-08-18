@@ -7,18 +7,26 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:37856915742:android:3789b9b3480674470e990f",
+        "mobilesdk_app_id": "1:37856915742:android:7bfe9a5f851a689e0e990f",
         "android_client_info": {
           "package_name": "com.IMCP.yellow_class"
         }
       },
       "oauth_client": [
         {
-          "client_id": "37856915742-m19oio79kpk59eioocesnn2am28nekjb.apps.googleusercontent.com",
+          "client_id": "37856915742-6oolrv6m2a6kn7e6lpi2ca9id9b59tc1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.IMCP.yellow_class",
             "certificate_hash": "39aacdce89258e8cc4c861a4916ab38300fa76b7"
+          }
+        },
+        {
+          "client_id": "37856915742-uce5oe9qrsparlq349e33352es6674ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.IMCP.yellow_class",
+            "certificate_hash": "801cbef94a07cecdd24ccd0cb2984c870b0951f9"
           }
         },
         {

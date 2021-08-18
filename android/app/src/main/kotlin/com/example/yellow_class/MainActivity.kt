@@ -1,4 +1,4 @@
-package com.example.yellow_class
+package com.IMCP.yellow_class
 
 import io.flutter.embedding.android.FlutterActivity
 
